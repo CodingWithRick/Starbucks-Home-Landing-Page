@@ -20,5 +20,5 @@
 		<li>Image and Circle Color Changing Functionality Using JavaScript - <a>DONE</a></li>
 	</ul>
 </h6>
-<button><a>Subscribe To My Channel</a></button>
+
 <body>
