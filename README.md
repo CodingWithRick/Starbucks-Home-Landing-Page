@@ -1,7 +1,7 @@
-# <link rel="stylesheet/css" src="Readme.css">
+<link rel="stylesheet/css" src="Readme.css">
 
 
-
+<body>
 	<div class="flex">
 		<img src="logo.png">
 		<h2><div>Starbucks</div> Home Landing Page</h2>
@@ -21,3 +21,4 @@
 	</ul>
 </h6>
 <button><a>Subscribe To My Channel</a></button>
+<body>
